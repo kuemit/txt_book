@@ -4,7 +4,7 @@
 
 txt_book is a standardized format for ebooks in plain text txt-files. It's goal is to enable human readers and software that implement the standard to read the books content itself plus meta information like the books title and author, bookmarks by different users or comments on text passages from one single txt file.
 
-As said the goal is to provide all of this information to a human reader too. So txt_book tries not to clutter the text file with control characters.
+As said the goal is to provide all of this information to a human reader too. So txt_book tries not to clutter the text file with control characters. Also we txt_book tries to stay as natural as possible with space character usage.
 
 ## Elements
 
