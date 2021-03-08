@@ -29,7 +29,6 @@ A txt_book book always has to start with a book header. The header consists of t
 ```txt_book
 TITLE: Alice's Adventures in Wonderland
 AUTHOR: Lewis Carroll
-PUB-DATE: 1865-11-26
 
 
 ...books contents...
@@ -59,7 +58,7 @@ PUB-DATE: 1865-11-26
 
 ### Bookmarks
 
-Bookmark entries are located at the end of the file, after the footer metadata and another empty line. There is one bookmark entry per line. A bookmark entry always starts with a "@" sign followed by a space character. Following this identifier, the actual content of the bookmark entry starts with a user name followed by a ":" sign to indicate the user who issued this bookmark. This enables collaboration on the book or to save the last reading position in a multi user environment like a shared e-reader. After the colon an file-unique identifier provides the possibility to save and identify more than one bookmark per user. The identifier can contain letters, numbers and the "_" sign. The identifier is then followed by the date and time where the bookmark was issued. The date has to be in ISO 8601 format and is enclosed by brackets. A following "=" leads to the position in the books contents finally. The position is described by two numbers separated by a colon. The first number indicates the line starting at the first line of the **file** not the books lines. The second number is the characters position in the line. A dot after the position indicator closes the mandatory part of the bookmark. Optionally a comment for the Bookmark can be issued after the dot in the same line and enclosed by double quotes.
+Bookmark entries are located at the end of the file, after the footer metadata and another empty line. There is one bookmark entry per line. A bookmark entry always starts with a "@" sign followed by a space character. Following this identifier, the actual content of the bookmark entry starts with a user name followed by a ":" sign to indicate the user who issued this bookmark. This enables collaboration on the book or to save the last reading position in a multi user environment like a shared e-reader. After the colon an file-unique identifier provides the possibility to save and identify more than one bookmark per user. The identifier can contain letters, numbers and the "_" sign. The identifier is then followed by the date and time where the bookmark was issued. The date has to be in ISO 8601 format and is enclosed by brackets. A following "=" leads to the position in the books contents finally. The position is described by two numbers separated by a colon. The first number indicates the line starting at the first line of the file, not the books lines. The second number is the characters position in the line. A dot after the position indicator closes the mandatory part of the bookmark. Optionally a comment for the Bookmark can be issued after the dot in the same line and enclosed by double quotes.
 
 ```txt_book
 ...footer metadata...
