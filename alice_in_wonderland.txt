@@ -1,22 +1,10 @@
-Alice's Adventures in Wonderland
-Lewis Carroll
-1865-11-26
+TITLE: Alice's Adventures in Wonderland
+AUTHOR: Lewis Carroll
+TXT_BOOK_V: 0.1
+PUB-DATE: 1865-11-26
 
-Alice's Adventures in Wonderland
-
-                ALICE'S ADVENTURES IN WONDERLAND
-
-                          Lewis Carroll
-
-               THE MILLENNIUM FULCRUM EDITION 3.0
-
-
-
-
-                            CHAPTER I
-
-                      Down the Rabbit-Hole
-
+= CHAPTER I = 
+=( Down the Rabbit-Hole )=
 
   Alice was beginning to get very tired of sitting by her sister
 on the bank, and of having nothing to do:  once or twice she had
@@ -248,9 +236,8 @@ common way.
 
 
 
-                           CHAPTER II
-
-                        The Pool of Tears
+= CHAPTER II =
+=( The Pool of Tears )=
 
 
   `Curiouser and curiouser!' cried Alice (she was so much
@@ -472,9 +459,8 @@ shore.
 
 
 
-                           CHAPTER III
-
-                  A Caucus-Race and a Long Tale
+= CHAPTER III =
+=( A Caucus-Race and a Long Tale )=
 
 
   They were indeed a queer-looking party that assembled on the
@@ -732,9 +718,8 @@ finish his story.
 
 
 
-                           CHAPTER IV
-
-                The Rabbit Sends in a Little Bill
+= CHAPTER IV =
+=( The Rabbit Sends in a Little Bill )=
 
 
   It was the White Rabbit, trotting slowly back again, and
@@ -1018,9 +1003,8 @@ of her or of anything else.
 
 
 
-                            CHAPTER V
-
-                    Advice from a Caterpillar
+= CHAPTER V =
+=( Advice from a Caterpillar )=
 
 
   The Caterpillar and Alice looked at each other for some time in
@@ -1330,9 +1314,8 @@ down to nine inches high.
 
 
 
-                           CHAPTER VI
-
-                         Pig and Pepper
+= CHAPTER VI =
+=( Pig and Pepper )=
 
 
   For a minute or two she stood looking at the house, and
@@ -1672,9 +1655,8 @@ gone to see the Hatter instead!'
 
 
 
-                           CHAPTER VII
-
-                         A Mad Tea-Party
+= CHAPTER VII =
+=( A Mad Tea-Party )=
 
 
   There was a table set out under a tree in front of the house,
@@ -2031,9 +2013,8 @@ beautiful garden, among the bright flower-beds and the cool fountains.
 
 
 
-                          CHAPTER VIII
-
-                   The Queen's Croquet-Ground
+= CHAPTER VIII =
+=( The Queen's Croquet-Ground )=
 
 
   A large rose-tree stood near the entrance of the garden:  the
@@ -2355,9 +2336,8 @@ looking for it, while the rest of the party went back to the game.
 
 
 
-                           CHAPTER IX
-
-                     The Mock Turtle's Story
+= CHAPTER IX =
+=( The Mock Turtle's Story )=
 
 
   `You can't think how glad I am to see you again, you dear old
@@ -2694,9 +2674,8 @@ very decided tone:  `tell her something about the games now.'
 
 
 
-                            CHAPTER X
-
-                      The Lobster Quadrille
+= CHAPTER X =
+=( The Lobster Quadrille )=
 
 
   The Mock Turtle sighed deeply, and drew the back of one flapper
@@ -3023,9 +3002,8 @@ melancholy words:--
 
 
 
-                           CHAPTER XI
-
-                      Who Stole the Tarts?
+= CHAPTER XI =
+=( Who Stole the Tarts? )=
 
 
   The King and Queen of Hearts were seated on their throne when
@@ -3302,9 +3280,8 @@ of his shrill little voice, the name `Alice!'
 
 
 
-                           CHAPTER XII
-
-                        Alice's Evidence
+= CHAPTER XII =
+=( Alice's Evidence )=
 
 
   `Here!' cried Alice, quite forgetting in the flurry of the

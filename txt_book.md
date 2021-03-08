@@ -43,3 +43,14 @@ If the reader software doesn't have multi user support or this feature is not ne
 ```txt_book
 @ default: default (2021-03-08 8:00) = 124:10. "This is the default bookmark aka. last reading position."
 ```
+
+### Headings
+
+txt_book uses the wikimedia standard here. Heading lines start and end with a "=". Another "=" is added for each sublayer of headings. Books sometimes have subtitles for their Chapters. txt_book extends the wikimedia standard for this purpose. To indicate that a subtitle line is a subtitle of the same layer and not anoteher heading or a sublayer of its main heading, txt_book adds a pair of brackets around the subtitle.
+
+#### Heading with subtitle example
+
+```txt_book
+= CHAPTER I = 
+=( Down the Rabbit-Hole )=
+```
