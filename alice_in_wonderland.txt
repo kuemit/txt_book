@@ -1,7 +1,6 @@
 TITLE: Alice's Adventures in Wonderland
 AUTHOR: Lewis Carroll
-TXT_BOOK_V: 0.1
-PUB-DATE: 1865-11-26
+
 
 = CHAPTER I = 
 =( Down the Rabbit-Hole )=
@@ -3580,6 +3579,9 @@ remembering her own child-life, and the happy summer days.
 
                              THE END
 
+
+TXT_BOOK_V: 0.2.0
+PUB-DATE: 1865-11-26
 
 @ default: default (2021-03-08 8:00) = 124:10. "This is the default bookmark aka. last reading position."
 @ timo: very_interesting (2021-08-03 9:30) = 500:5. "Very interesting word."
